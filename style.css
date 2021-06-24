@@ -1,0 +1,24 @@
+body
+{
+    color:white;
+    background:lightblue;
+}
+
+.heading
+{
+    width:80%;
+    font-size:30px;
+    font-family:"fantasy";
+}
+
+#camera
+{
+    border: 2px dashed purple;
+    width: 350px;
+    height: 400px;
+}
+
+.result_object_name, result_object_accuracy
+{
+color:yellow;
+}
